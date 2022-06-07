@@ -1,0 +1,6 @@
+{
+    "solidity-va.deco.statevars": true,
+    "solidity-va.deco.arguments": true,
+    "solidity-va.outline.decorations": true,
+    "solidity-va.outline.var.storage_annotations": true
+}
